@@ -1,0 +1,18 @@
+body{
+  
+  background-size: cover;
+   background-image: url(Fondo97856324.JPG);
+}
+.a1{
+	position: absolute;
+	top: 1%;
+ 	left: 1%;
+  	width: 98%; 
+  	height: 120%; 
+  	background-size: cover;
+  	background-image: url(Fondo Trabajo.jpg);
+  	border: 5px solid yellow; 
+  	border-radius: 4%;
+    background: aqua;
+    opacity: 0.5;
+}
