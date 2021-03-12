@@ -510,6 +510,46 @@ text-shadow: 1px 1px 1px black , 2px 2px 2px black, 3px 3px 3px black, 4px 4px 4
 }
 
 
+.Cuadro1Semana2PPA{
+  position: absolute;
+  font-family: "Snap ITC", cursive;
+  text-shadow: 1px 1px 1px white , 2px 2px 2px white, 3px 3px 3px white, 4px 4px 4px white;
+   
+  top: 110%;
+  left: -20%;
+    width: 80%; 
+    height: 120%;
+    color: skyblue;    border: 5px solid red; 
+        
+    animation-name: PruebaTitulo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    background: skyblue;
+    border-radius: 30%;
+}
+
+.Cuadro2Semana2PP9{
+  position: absolute;
+  font-family: "Snap ITC", cursive;
+  text-shadow: 1px 1px 1px white , 2px 2px 2px white, 3px 3px 3px white, 4px 4px 4px white;
+   
+  top: 10%;
+  left: 5%;
+    width: 90%; 
+    height: 84%;
+    color: skyblue;    border: 5px solid red; 
+        
+    animation-name: PruebaTitulo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    background: lime;
+    border-radius: 30%;
+}
+
+
+
 .Cuadro2Semana2PP{
   position: absolute;
   font-family: "Snap ITC", cursive;
