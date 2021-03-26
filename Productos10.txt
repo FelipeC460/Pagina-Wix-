@@ -1,0 +1,3 @@
+Cantidad: 1	 Producto: Queso	 Precio : 2500 
+ Cantidad: 1	 Producto: Queso	 Precio : 2500 
+ 
