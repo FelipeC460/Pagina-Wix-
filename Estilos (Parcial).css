@@ -45,7 +45,7 @@ body{
   top: 10%;
   left: 10%;
     width: 80%; 
-    height: 20%;
+    height: 30%;
     color: skyblue;    border: 5px solid red; 
         
     animation-name: PruebaTitulo;
@@ -248,6 +248,24 @@ body{
    
   top: 4%;
   left: 30%;
+    width: 13%; 
+    height: 2%;
+    border: 5px solid pink; 
+        
+    animation-name: PruebaTitulo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    background: pink;
+}
+
+.BotónRppp{
+  position: absolute;
+  font-family: "Snap ITC", cursive;
+  text-shadow: 1px 1px 1px white , 2px 2px 2px white, 3px 3px 3px white, 4px 4px 4px white;
+   
+  top: 4%;
+  left: 70%;
     width: 13%; 
     height: 2%;
     border: 5px solid pink; 
